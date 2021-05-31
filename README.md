@@ -1,3 +1,5 @@
+[![Linkedin Badge](https://img.shields.io/badge/oscartbeaumont-blue?style=social&logo=Linkedin)](https://www.linkedin.com/in/oscartbeaumont)
+
 ### 👋 Welcome
 
 I love open source and sharing the projects I build to make my life easier.
