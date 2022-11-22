@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi 👋, I'm Oscar</h1>
-  <h3>A self-taught Freelance Full Stack Software Developer</h3>
+  <h3>A self-taught Full Stack Software Developer</h3>
   
   <p>I love open source software and sharing the projects I build to make life easier.</p>
   <p>Feel free to contact me if you are interested in hiring me for a project.</p>
