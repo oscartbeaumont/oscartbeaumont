@@ -1,7 +1,6 @@
 <div align="center">
-  
-  # Hi 👋, I'm Oscar
-  ### A self-taught Full Stack Software Developer
+  <h1 style="color:white;">Hi 👋, I'm Oscar</h1>
+  <h3 style="color:white;"> A self-taught Full Stack Software Developer</h3>
   
   I love open-source software and sharing the projects I build to make life easier.
   Feel free to contact me if you are interested in hiring me for a project.
